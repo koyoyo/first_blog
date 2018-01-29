@@ -8,7 +8,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Osprey Example Site"
+    tagline = "First Hugo Website"
     author = "Toma Nistor"
     description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
     logoBig = "/images/osprey-logo.png"
