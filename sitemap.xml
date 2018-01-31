@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/first_blog/</loc>
+    <loc>https://koyoyo.github.io/first_blog/blog/first_blog/</loc>
     <lastmod>2018-01-29T20:34:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://koyoyo.github.io/first_blog/blog/</loc>
     <lastmod>2018-01-29T20:34:06+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://koyoyo.github.io/first_blog/</loc>
     <lastmod>2018-01-29T20:34:06+07:00</lastmod>
     <priority>0</priority>
   </url>
