@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>true</copyright>
-    <lastBuildDate>Mon, 29 Jan 2018 20:34:06 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 19:28:50 +0000</lastBuildDate>
     
 	<atom:link href="https://koyoyo.github.io/first_blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From FORESTRY</title>
+      <link>https://koyoyo.github.io/first_blog/blog/from-forestry/</link>
+      <pubDate>Wed, 31 Jan 2018 19:28:50 +0000</pubDate>
+      
+      <guid>https://koyoyo.github.io/first_blog/blog/from-forestry/</guid>
+      <description>We&amp;rsquo;ve just created from FORESTRY
+Changed at 21:16.</description>
+    </item>
     
     <item>
       <title>First_blog</title>
